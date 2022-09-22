@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I’m Chris Trag</h1>
 <h3 align="center">I build Developer Relations & Open Source programs</h3>
 
-<p align="left"> <a href="https://twitter.com/chris_trag" target="blank"><img src="https://img.shields.io/twitter/follow/chris_trag?logo=twitter&style=for-the-badge" alt="chris_trag" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chris_trag" target="blank"><img src="https://img.shields.io/twitter/follow/chris_trag?logo=twitter&style=flat" alt="chris_trag" /></a> </p>
 
 - 🔭 I’m currently working on **launching Dev Relations programs**
 
