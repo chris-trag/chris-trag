@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **launching Dev Relations programs**
 
-- 🌱 I’m currently learning **Procreate (iPad), React Router, and GitHub Actions**
+- 🌱 I’m currently learning how to **lead by example, vibe code, and scale the projects I work on.**
 
 - 👯 I’m looking to collaborate on [writing articles](https://blog.trag.dev)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [blog.trag.dev](blog.trag.dev)
 
-- 💬 Ask me about **Dev Relations, OSS, Dev Advocacy, JS, Front-End, JAMstack apps, Engineering Management**
+- 💬 Ask me about **Dev Relations, OSS, Dev Advocacy, JS, Front-End, Engineering Management**
 
 - 📫 How to reach me **chris@trag.dev**
 
