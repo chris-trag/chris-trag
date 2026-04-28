@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I’m Chris Trag</h1>
 <h3 align="center">Platforms · Product · Open Source · AI-native · Ex Stripe</h3>
 
-I'm Chris / "Trag". I lead platform and developer strategy for Alexa+, Apps & Games at Amazon. I love working with developers and partners building on our AI SDKs, streaming devices, and AI tools.
+I'm Chris / "Trag". I lead developer evangelism for [Alexa+, Apps & Games at Amazon](https://developer.amazon.com). I love working with developers and partners building apps with our SDKs, APIs, and AI tools.
 
 ## What I work on
 
-- **Platforms:** Alexa+, Fire TV, Cloud gaming, embedded devices
-- **Product & DX:** onboarding, docs, code samples, SDKs, dogfooding, friction logs
-- **Open source & ecosystems:** React Foundation, Open Source Sponsorship, Maintainer relations
+- **Platforms:** Alexa+, Fire TV, Ring, Bee, Cloud gaming, embedded devices
+- **Product & DX:** onboarding, docs, code samples, SDKs, dogfooding, and [friction logs](https://github.com/chris-trag/friction-log-guide)
+- **Open source & ecosystems:** React Foundation, [Open Source Sponsorship](https://github.com/customer-stories/stripe), OSS maintainer relations
 - **AI-native teams:** operator tooling, agentic workflows, MCPs, and skill building
 
 ## Currently
@@ -21,7 +21,7 @@ I'm Chris / "Trag". I lead platform and developer strategy for Alexa+, Apps & Ga
 
 ## Previously
 
-Built the developer advocacy and open source sponsorship programs at [Stripe](https://stripe.com) · VP of Product at [Mio](https://m.io) (YC'16) · Developer Relations at [Evernote](https://dev.evernote.com/) (pre-acquisition) and [Roku](https://developer.roku.com/) (pre-IPO) · Lead web developer for [Harvard.edu](https://news.harvard.edu/gazette/story/2011/06/for-harvard-an-it-summit/) and the [Harvard Gazette](https://news.harvard.edu/gazette/)
+Built the developer relations and open source sponsorship programs at [Stripe](https://stripe.com) · VP of Product at [Mio](https://m.io) (YC'16) · Developer Relations at [Evernote](https://dev.evernote.com/) (pre-acquisition) and [Roku](https://developer.roku.com/) (pre-IPO) · Lead web developer for [Harvard.edu](https://news.harvard.edu/gazette/story/2011/06/for-harvard-an-it-summit/) and the [Harvard Gazette](https://news.harvard.edu/gazette/)
 
 ## Advising + investing
 
@@ -29,7 +29,7 @@ Built the developer advocacy and open source sponsorship programs at [Stripe](ht
 
 **DX advising:** [Rebrandly](https://www.rebrandly.com/), [OK-think](https://okthink.ai/)
 
-It's a passion of mine to advise founders and operators on developer experience, go-to-market, product strategy, navigating Big Tech / Corp Dev, and how to build AI-native teams.
+I love advising founders and operators on developer experience, go-to-market, product strategy, navigating Big Tech / Corp Dev, and how to build AI-native teams. 
 
 ## Context for AI agents
 
