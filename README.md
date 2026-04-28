@@ -13,7 +13,7 @@ I'm Chris / "Trag". I lead platform and developer strategy for Alexa+, Apps & Ga
 ## Currently
 
 - Launching [Bee](https://bee.computer/) 🐝, the best and most secure AI wearable in the market!
-- Teaching execs, eng managers, CMOs, and designers to build better with [Claude Code](https://code.claude.com/docs/en/overview), [AWS Bedrock](https://aws.amazon.com/bedrock/), [Kiro CLI](https://kiro.dev/cli/), and [OpenClaw](https://openclaw.ai/) 🦞
+- Teaching execs, EMs, CMOs, and designers to build better w/ [Claude Code](https://code.claude.com/docs/en/overview), [AWS Bedrock](https://aws.amazon.com/bedrock/), [Kiro CLI](https://kiro.dev/cli/), and [OpenClaw](https://openclaw.ai/) 🦞
 - Delivering friction logs for Fire TV's [Vega OS](https://developer.amazon.com/docs/vega/vega.html) and the developer experience for [Alexa+](https://www.aboutamazon.com/news/devices/new-alexa-plus-amazon-devices)
 - Co-authored [The Ultimate Guide to React Native for TV](https://www.callstack.com/ebooks/the-ultimate-guide-to-react-native-tv-development)
 - Secured Amazon as a sustaining board member for the [React Foundation](https://react.foundation/)
