@@ -1,40 +1,52 @@
 <h1 align="center">Hi 👋, I’m Chris Trag</h1>
-<h3 align="center">I build Developer Relations & Open Source programs</h3>
+<h3 align="center">Platforms · Product · Open Source · AI-native · Ex Stripe</h3>
 
-<p align="left"> <a href="https://twitter.com/chris_trag" target="blank"><img src="https://img.shields.io/twitter/follow/chris_trag?logo=twitter&style=flat" alt="chris_trag" /></a> </p>
+I'm Chris / "Trag". I lead platform and developer strategy for Alexa+, Apps & Games at Amazon. I love working with developers and partners building on our AI SDKs, streaming devices, and AI tools.
 
-- 🔭 I’m currently working on **launching Dev Relations programs**
+## What I work on
 
-- 🌱 I’m currently learning how to **lead by example, vibe code, and scale the projects I work on.**
+- **Platforms:** Alexa+, Fire TV, Cloud gaming, embedded devices
+- **Product & DX:** onboarding, docs, code samples, SDKs, dogfooding, friction logs
+- **Open source & ecosystems:** React Foundation, Open Source Sponsorship, Maintainer relations
+- **AI-native teams:** operator tooling, agentic workflows, MCPs, and skill building
 
-- 👯 I’m looking to collaborate on [writing articles](https://blog.trag.dev)
+## Currently
 
-- 👨‍💻 All of my projects are available at [trag.dev](trag.dev)
+- Launching [Bee](https://bee.computer/) 🐝, the best and most secure AI wearable in the market!
+- Teaching execs, eng managers, CMOs, and designers to build better with [Claude Code](https://code.claude.com/docs/en/overview), [AWS Bedrock](https://aws.amazon.com/bedrock/), [Kiro CLI](https://kiro.dev/cli/), and [OpenClaw](https://openclaw.ai/) 🦞
+- Delivering friction logs for Fire TV's [Vega OS](https://developer.amazon.com/docs/vega/vega.html) and the developer experience for [Alexa+](https://www.aboutamazon.com/news/devices/new-alexa-plus-amazon-devices)
+- Co-authored [The Ultimate Guide to React Native for TV](https://www.callstack.com/ebooks/the-ultimate-guide-to-react-native-tv-development)
+- Secured Amazon as a sustaining board member for the [React Foundation](https://react.foundation/)
+- Launched [Ring's developer APIs](https://developer.ring.com/) at CES
 
-- 📝 I regularly write articles on [blog.trag.dev](blog.trag.dev)
+## Previously
 
-- 💬 Ask me about **Dev Relations, OSS, Dev Advocacy, JS, Front-End, Engineering Management**
+Built the developer advocacy and open source sponsorship programs at [Stripe](https://stripe.com) · VP of Product at [Mio](https://m.io) (YC'16) · Developer Relations at [Evernote](https://dev.evernote.com/) (pre-acquisition) and [Roku](https://developer.roku.com/) (pre-IPO) · Lead web developer for [Harvard.edu](https://news.harvard.edu/gazette/story/2011/06/for-harvard-an-it-summit/) and the [Harvard Gazette](https://news.harvard.edu/gazette/)
 
-- 📫 How to reach me **chris@trag.dev**
+## Advising + investing
 
-- 📄 Know about my work experience at [linkedin/in/ctraganos](http://linkedin.com/in/ctraganos)
+**Angel:** [Meegos](https://meegos.fun/), [Question Base](https://www.questionbase.com/)
 
-- ⚡ Fun fact **I love sketching and dodgeball**
+**DX advising:** [Rebrandly](https://www.rebrandly.com/), [OK-think](https://okthink.ai/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/trag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="trag" height="30" width="40" /></a>
-<a href="https://twitter.com/chris_trag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chris_trag" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ctraganos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ctraganos" height="30" width="40" /></a>
-<a href="https://instagram.com/trag.sketch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trag.sketch" height="30" width="40" /></a>
-<a href="https://dribbble.com/ctraganos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ctraganos" height="30" width="40" /></a>
-<a href="https://hashnode.com/@trag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@trag" height="30" width="40" /></a>
-</p>
+It's a passion of mine to advise founders and operators on developer experience, go-to-market, product strategy, navigating Big Tech / Corp Dev, and how to build AI-native teams.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## Context for AI agents
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/trag"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="trag" /></a></p><br><br><br><br>
+I publish my work bio, writing style, and friction log template as markdown at [trag.dev/context/](https://trag.dev/context/). Point your agent at it and prompt:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chris-trag&show_icons=true&locale=en&layout=compact" alt="chris-trag" /></p>
+```
+Read the context files at https://trag.dev/context/ and use them to understand how to engage with Chris.
+```
+
+## Elsewhere
+
+- [trag.dev](https://trag.dev/)
+- [Writing](https://trag.dev/writing/) · [Speaking](https://trag.dev/speaking/)
+- [LinkedIn](https://www.linkedin.com/in/ctraganos)
+- [Bluesky](https://bsky.app/profile/trag.dev)
+- [@chris_trag](https://twitter.com/chris_trag)
+
+
+
+📍 Austin (primary) · Seattle (HQ)
